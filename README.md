@@ -1,7 +1,4 @@
-# To-Do-App
-by James Clark
-
-To Do App for CSC690 @ SFSU
+# To Do App
 
 How to use:
 - Upon opening you will be presented with a list. If you have not used this app before, it will be blank. If you have used it before, it will contain all of the tasks you previously added to it.
